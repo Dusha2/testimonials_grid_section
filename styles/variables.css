@@ -1,0 +1,12 @@
+:root {
+    --color-white: oklch(100% 0 0);
+    --color-violet: oklch(51.18% 0.1983 296.36);
+    --color-light-violet: oklch(66.71% 0.181 300.16);
+    --color-dark-grayish-blue: oklch(44.68% 0.0384 259.92);
+    --color-dark-blackish-blue: oklch(24.63% 0.0275 259.96);
+    --color-light-blue: oklch(95.83% 0.010 247.93);
+
+    --font-family-base: "Barlow Semi Condensed", sans-serif;
+
+    --box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.247378);
+}
