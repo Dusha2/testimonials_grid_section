@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your Frontend Mentor solution URL here]
-- Live Site URL: [Add your live site URL here]
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/responsive-testimonials-layout-using-css-grid-DL9zlW_1Ad)
+- Live Site URL: [live site](https://dusha2.github.io/testimonials_grid_section/)
 
 ## My process
 
